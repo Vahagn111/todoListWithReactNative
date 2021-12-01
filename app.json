@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReactN",
+    "slug": "ReactN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReactN"
+}
